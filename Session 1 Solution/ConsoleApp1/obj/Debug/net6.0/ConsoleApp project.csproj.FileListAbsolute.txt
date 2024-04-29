@@ -1,0 +1,15 @@
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\bin\Debug\net6.0\ConsoleApp project.exe
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\bin\Debug\net6.0\ConsoleApp project.deps.json
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\bin\Debug\net6.0\ConsoleApp project.runtimeconfig.json
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\bin\Debug\net6.0\ConsoleApp project.dll
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\bin\Debug\net6.0\ConsoleApp project.pdb
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.csproj.AssemblyReference.cache
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.AssemblyInfoInputs.cache
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.AssemblyInfo.cs
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.dll
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp project.dll
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.pdb
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ConsoleApp project.genruntimeconfig.cache
+E:\Route\Back-end\2 C Sharp\solutions\ConsoleApp1 solution\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp project.dll

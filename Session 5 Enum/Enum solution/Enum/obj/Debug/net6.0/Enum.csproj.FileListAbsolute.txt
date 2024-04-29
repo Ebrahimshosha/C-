@@ -1,0 +1,30 @@
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.exe
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.deps.json
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.pdb
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\refint\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.pdb
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Enum\Enum solution\Enum\obj\Debug\net6.0\ref\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.exe
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.deps.json
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\bin\Debug\net6.0\Enum.pdb
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\refint\Enum.dll
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.pdb
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+E:\Route\Back-end\2 C # Basics\Demoes\Session 5 Enum\Enum solution\Enum\obj\Debug\net6.0\ref\Enum.dll
